@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baraa-Baba I live in lebanon 
-- [portfilio](https://barr-baba.vercel.app)
+- [portfilio](https://baraa-baba.vercel.app)
 - 👀 I’m interested in everything about tech and I am now a frontend developer and I will prb learn other things also 
 - 🌱 I’m currently working on my portfolio website check out  [dev.to](https://dev.to/baraa_baba/series/17211) where I am blogging the whole building process and the [website](https://baraa-baba.vercel.app/)
  itself 
