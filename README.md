@@ -9,7 +9,7 @@ I focus on building **scalable, reusable frontend systems**, clean architecture,
 ---
 
 ### 🚀 Highlight
-- Creator of a **design-agnostic e-commerce core logic library** built with **Vue.js**
+- Created of a **design-agnostic e-commerce core logic library** built with **Vue.js**
 - Used to build **5+ production e-commerce websites**
 - Fully documented and designed for reuse across different UI designs
 
