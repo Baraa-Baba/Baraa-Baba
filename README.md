@@ -3,8 +3,7 @@
 🚀 Full-Stack Developer | Computer Science Student  
 🇱🇧 Based in Lebanon
 
-I’m a highly motivated developer with real-world production experience, currently pursuing a **BSc in Computer Science** with a **91 CGPA** at RHU.  
-I focus on building **scalable, reusable frontend systems**, clean architecture, and practical solutions that ship to production.
+I’m a highly motivated developer with real-world production experience, currently pursuing a **BSc in Computer Science** with a **91 CGPA** at RHU.   
 
 ---
 
