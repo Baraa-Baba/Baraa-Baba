@@ -17,7 +17,7 @@ I focus on building **scalable, reusable frontend systems**, clean architecture,
 
 ### 💼 Experience
 
-**Front-end Web Developer — OctaSolutions**  
+**Full-stack Web Developer — OctaSolutions**  
 *May 2023 – Present*  
 
 - Designed and developed a **reusable e-commerce core logic library** using **Vue.js**, independent of UI or design systems.
