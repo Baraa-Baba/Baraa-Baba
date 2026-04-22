@@ -98,5 +98,5 @@ I’m open to collaborating on:
 - Open-source projects
 
 📫 **Contact**
-- Email: [baraababawork@gmail.com](mailto:baraababawork@gmail.com)
-- Freelancer: https://www.freelancer.com/hireme/baraa12baba
+- Email: [baraababawork@gmail.com](mailto:baraababawork@gmail.com) 
+- Linkedin: https://www.linkedin.com/in/baraa-el-baba-336262264/
